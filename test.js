@@ -18,3 +18,4 @@ body
     var html = fn();
     res.send(html);
 })
+ 
